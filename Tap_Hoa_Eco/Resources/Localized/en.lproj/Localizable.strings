@@ -1,0 +1,175 @@
+/* 
+  Localizable.strings
+  Tap_Hoa_Eco
+
+  Created by Nguyễn Quốc Hiếu on 9/1/25.
+  
+*/
+
+// MARK: - Onboarding
+"Welcome to\nTap Hoa Eco" = "Welcome to\nTap Hoa Eco";
+"Receive goods within one hour" = "Receive goods within one hour";
+"Get Started" = "Get Started";
+"Please wait..." = "Please wait...";
+
+// MARK: - Sign up
+"Sign Up" = "Sign Up";
+"To receive more benefits, register your account by filling in the information" = "To receive more benefits, register your account by filling in the information";
+"Username" = "Username";
+"Enter username" = "Enter username";
+"Email" = "Email";
+"Enter email" = "Enter email";
+"Password" = "Password";
+"Enter password" = "Enter password";
+"Already have an account?" = "Already have an account?";
+"Login" = "Login";
+
+// MARK: - Login
+"Enter your email & password to access or create a new account" = "Enter your email & password to access or create a new account";
+"Forgot Password" = "Forgot Password";
+"Don't have an account?" = "Don't have an account?";
+
+// MARK: - Set Password
+"New Password" = "New Password";
+"Enter new password" = "Enter new password";
+"Confirm New Password" = "Confirm New Password";
+"Confirm new password" = "Confirm new password";
+"Change Password" = "Change Password";
+"Ok" = "Ok";
+
+// MARK: - OTP
+"Enter Code" = "Enter Code";
+"Code" = "Code";
+"- - - -" = "- - - -";
+"Resend Code" = "Resend Code";
+
+// MARK: - Main Tab
+"Home" = "Home";
+"Explore" = "Explore";
+"Cart" = "Cart";
+"Favourite" = "Favourite";
+"Account" = "Account";
+
+// MARK: - Home
+"Your Location" = "Your Location";
+"Product Categories" = "Product Categories";
+"Special Offers" = "Special Offers";
+"Best Sellers" = "Best Sellers";
+"Loading" = "Loading";
+"OK" = "OK";
+
+// MARK: - Product Detail
+"Price" = "Price";
+"Product Details" = "Product Details";
+"Nutrition" = "Nutrition";
+"Review" = "Review";
+"Add to Cart" = "Add to Cart";
+
+// MARK: - Explore
+"Search" = "Search";
+
+// MARK: - Favourite
+"Add All to Cart" = "Add All to Cart";
+
+// MARK: - Cart
+"Cart is empty" = "Cart is empty";
+"Checkout" = "Checkout";
+
+// MARK: - Checkout
+"Place Order" = "Place Order";
+"Subtotal" = "Subtotal";
+"Delivery Fee" = "Delivery Fee";
+"Discount" = "Discount";
+"Total" = "Total";
+"Delivery Type" = "Delivery Type";
+"Delivery" = "Delivery";
+"Pickup" = "Pickup";
+"Choose" = "Choose";
+"Payment Type" = "Payment Type";
+"Payment" = "Payment";
+"Promo Code" = "Promo Code";
+
+// MARK: - Order Accept
+"Your order\nis accepted" = "Your order\nis accepted";
+"Your items has been placed and is on it's way to being processed" = "Your items has been placed and is on it's way to being processed";
+"Track Order" = "Track Order";
+"Go Back" = "Go Back";
+
+// MARK: - Account
+"Logout" = "Logout";
+"Orders" = "Orders";
+"My Details" = "My Details";
+"Delivery Address" = "Delivery Address";
+"Payment Methods" = "Payment Methods";
+"Promo Codes" = "Promo Codes";
+"Notifications" = "Notifications";
+
+// MARK: - Delivery Address
+"House" = "Home";
+"Office" = "Office";
+"Name" = "Name";
+"Enter name" = "Enter name";
+"Phone" = "Phone";
+"Enter phone number" = "Enter phone number";
+"Address" = "Address";
+"Enter address" = "Enter address";
+"Add Address" = "Add Address";
+"Update Address" = "Update Address";
+"Edit Address" = "Edit Address";
+
+// MARK: - Payment Methods
+"Payment Cards" = "Payment Cards";
+"Card Number" = "Card Number";
+"Enter card number" = "Enter card number";
+"MM" = "MM";
+"Enter month" = "Enter month";
+"YYYY" = "YYYY";
+"Enter year" = "Enter year";
+"Add Payment Card" = "Add Payment Card";
+"CARDHOLDER NAME" = "CARDHOLDER NAME";
+"EXPIRES" = "EXPIRES";
+
+// MARK: - Notifications
+"Read All" = "Read All";
+
+// MARK: - Orders
+"Order" = "Order";
+"Order ID" = "Order ID";
+"Items" = "Items";
+"Status" = "Status";
+"Order Details" = "Order Details";
+"Shipping" = "Shipping";
+
+// MARK: - Profile
+"Personal Information" = "Personal Information";
+"Full Name" = "Full Name";
+"Enter full name" = "Enter full name";
+"Phone Number" = "Phone Number";
+"Select Country" = "Select Country";
+"Update" = "Update";
+
+// MARK: - Password Change
+"Current Password" = "Current Password";
+"Enter current password" = "Enter current password";
+"Confirm Password" = "Confirm Password";
+
+// MARK: - Review
+"Write Review" = "Write Review";
+"Thank you for trusting and choosing our products. Your honest feedback helps us serve better and helps other customers make informed choices!" = "Thank you for trusting and choosing our products. Your honest feedback helps us serve better and helps other customers make informed choices!";
+"Write Review..." = "Write Review...";
+"Submit" = "Submit";
+
+// MARK: - Order Status
+"Placed" = "Placed";
+"Accepted" = "Accepted";
+"Delivered" = "Delivered";
+"Cancelled" = "Cancelled";
+"Rejected" = "Rejected";
+"Delivery" = "Delivery";
+"Pickup" = "Pickup";
+"Cash Payment" = "Cash Payment";
+"Card Payment" = "Card Payment";
+"Processing" = "Processing";
+"Success" = "Success";
+"Error" = "Error";
+"Refunded" = "Refunded";

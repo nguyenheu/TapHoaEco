@@ -1,0 +1,175 @@
+/*
+  Localizable.strings
+  Tap_Hoa_Eco
+
+  Created by Nguyễn Quốc Hiếu on 9/1/25.
+  
+*/
+
+// MARK: - Onboarding
+"Welcome to\nTap Hoa Eco" = "Tạp hoá Eco\nXin chào";
+"Receive goods within one hour" = "Nhận hàng chỉ trong vòng một giờ";
+"Get Started" = "Bắt đầu";
+"Please wait..." = "Vui lòng chờ...";
+
+// MARK: - Sign up
+"Sign Up" = "Đăng ký";
+"To receive more benefits, register your account by filling in the information" = "Để nhận thêm nhiều quyền lợi, hãy đăng ký tài khoản bằng cách điền thông tin";
+"Username" = "Tên người dùng";
+"Enter username" = "Nhập tên người dùng";
+"Email" = "Email";
+"Enter email" = "Nhập email";
+"Password" = "Mật khẩu";
+"Enter password" = "Nhập mật khẩu";
+"Already have an account?" = "Đã có tài khoản?";
+"Login" = "Đăng nhập";
+
+// MARK: - Login
+"Enter your email & password to access or create a new account" = "Nhập email và mật khẩu để truy cập hoặc tạo tài khoản mới";
+"Forgot Password" = "Quên mật khẩu";
+"Don't have an account?" = "Chưa có tài khoản?";
+
+// MARK: - Set Password
+"New Password" = "Mật khẩu mới";
+"Enter new password" = "Nhập mật khẩu mới";
+"Confirm New Password" = "Xác nhận mật khẩu mới";
+"Confirm new password" = "Xác nhận mật khẩu mới";
+"Change Password" = "Thay đổi mật khẩu";
+"Ok" = "Đồng ý";
+
+// MARK: - OTP
+"Enter Code" = "Nhập mã";
+"Code" = "Mã";
+"- - - -" = "- - - -";
+"Resend Code" = "Gửi lại mã";
+
+// MARK: - Main Tab
+"Home" = "Trang chủ";
+"Explore" = "Khám phá";
+"Cart" = "Giỏ hàng";
+"Favourite" = "Yêu thích";
+"Account" = "Tài khoản";
+
+// MARK: - Home
+"Your Location" = "Vị trí của bạn";
+"Product Categories" = "Danh mục sản phẩm";
+"Special Offers" = "Ưu đãi đặc biệt";
+"Best Sellers" = "Bán chạy nhất";
+"Loading" = "Đang tải";
+"OK" = "Đồng ý";
+
+// MARK: - Product Detail
+"Price" = "Giá";
+"Product Details" = "Chi tiết sản phẩm";
+"Nutrition" = "Dinh dưỡng";
+"Review" = "Đánh giá";
+"Add to Cart" = "Thêm vào giỏ";
+
+// MARK: - Explore
+"Search" = "Tìm kiếm";
+
+// MARK: - Favourite
+"Add All to Cart" = "Thêm tất cả vào giỏ";
+
+// MARK: - Cart
+"Cart is empty" = "Giỏ hàng trống";
+"Checkout" = "Thanh toán";
+
+// MARK: - Checkout
+"Place Order" = "Đặt hàng";
+"Subtotal" = "Tạm tính";
+"Delivery Fee" = "Phí vận chuyển";
+"Discount" = "Giảm giá";
+"Total" = "Tổng cộng";
+"Delivery Type" = "Loại vận chuyển";
+"Delivery" = "Giao hàng";
+"Pickup" = "Lấy hàng";
+"Choose" = "Chọn";
+"Payment Type" = "Loại thanh toán";
+"Payment" = "Thanh toán";
+"Promo Code" = "Mã giảm giá";
+
+// MARK: - Order Accept
+"Your order\nis accepted" = "Đơn hàng của bạn\nđã được chấp nhận";
+"Your items has been placed and is on it's way to being processed" = "Đơn hàng của bạn đã được đặt và đang được xử lý";
+"Track Order" = "Theo dõi đơn hàng";
+"Go Back" = "Quay lại";
+
+// MARK: - Account
+"Logout" = "Đăng xuất";
+"Orders" = "Đơn hàng";
+"My Details" = "Thông tin của tôi";
+"Delivery Address" = "Địa chỉ giao hàng";
+"Payment Methods" = "Phương thức thanh toán";
+"Promo Codes" = "Mã giảm giá";
+"Notifications" = "Thông báo";
+
+// MARK: - Delivery Address
+"House" = "Nhà";
+"Office" = "Văn phòng";
+"Name" = "Tên";
+"Enter name" = "Nhập tên";
+"Phone" = "Điện thoại";
+"Enter phone number" = "Nhập số điện thoại";
+"Address" = "Địa chỉ";
+"Enter address" = "Nhập địa chỉ";
+"Add Address" = "Thêm địa chỉ";
+"Update Address" = "Cập nhật địa chỉ";
+"Edit Address" = "Sửa địa chỉ";
+
+// MARK: - Payment Methods
+"Payment Cards" = "Thẻ thanh toán";
+"Card Number" = "Số thẻ";
+"Enter card number" = "Nhập số thẻ";
+"MM" = "Tháng";
+"Enter month" = "Nhập tháng";
+"YYYY" = "Năm";
+"Enter year" = "Nhập năm";
+"Add Payment Card" = "Thêm thẻ thanh toán";
+"CARDHOLDER NAME" = "TÊN CHỦ THẺ";
+"EXPIRES" = "HẾT HẠN";
+
+// MARK: - Notifications
+"Read All" = "Đọc tất cả";
+
+// MARK: - Orders
+"Order" = "Đơn hàng";
+"Order ID" = "Mã đơn hàng";
+"Items" = "Sản phẩm";
+"Status" = "Trạng thái";
+"Order Details" = "Chi tiết đơn hàng";
+"Shipping" = "Vận chuyển";
+
+// MARK: - Profile
+"Personal Information" = "Thông tin cá nhân";
+"Full Name" = "Họ và tên";
+"Enter full name" = "Nhập họ và tên";
+"Phone Number" = "Số điện thoại";
+"Select Country" = "Chọn quốc gia";
+"Update" = "Cập nhật";
+
+// MARK: - Password Change
+"Current Password" = "Mật khẩu hiện tại";
+"Enter current password" = "Nhập mật khẩu hiện tại";
+"Confirm Password" = "Xác nhận mật khẩu";
+
+// MARK: - Review
+"Write Review" = "Viết đánh giá";
+"Thank you for trusting and choosing our products. Your honest feedback helps us serve better and helps other customers make informed choices!" = "Cảm ơn bạn đã tin tưởng và lựa chọn sản phẩm của chúng tôi. Phản hồi chân thành của bạn giúp chúng tôi phục vụ tốt hơn và giúp khách hàng khác đưa ra lựa chọn đúng đắn!";
+"Write Review..." = "Viết đánh giá...";
+"Submit" = "Gửi";
+
+// MARK: - Order Status
+"Placed" = "Đã đặt";
+"Accepted" = "Đã chấp nhận";
+"Delivered" = "Đã giao";
+"Cancelled" = "Huỷ";
+"Rejected" = "Từ chối";
+"Delivery" = "Giao hàng";
+"Pickup" = "Đến cửa hàng";
+"Cash Payment" = "Thanh toán tiền mặt";
+"Card Payment" = "Thanh toán qua thẻ";
+"Processing" = "Đang xử lý";
+"Success" = "Thành công";
+"Error" = "Lỗi";
+"Refunded" = "Hoàn tiền";
