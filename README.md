@@ -65,7 +65,7 @@ Bao gồm:
 * Model Layer
 * Service Layer (Network / Local Storage)
 * Navigation bằng `NavigationStack`
-* Reusable UI Components** (MainTabView, TabButton, Cards, Input Fields…)
+* Reusable UI Components (MainTabView, TabButton, Cards, Input Fields…)
 
 ---
 
