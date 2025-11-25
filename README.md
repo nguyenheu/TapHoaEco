@@ -74,7 +74,7 @@ Bao gồm:
 * Swift 5.9+
 * SwiftUI
 * MVVM
-* Combine (nếu áp dụng)
+* Combine
 * Local JSON Data
 * Xcode 15+
 
